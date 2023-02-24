@@ -1,0 +1,38 @@
+[
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "dni": "12345678",
+      "empresa": "OpenAI",
+      "correo": "juan.perez@openai.com"
+    },
+    {
+      "nombre": "Alberto",
+      "apellido": "Mendoza",
+      "dni": "1235328",
+      "empresa": "Santander",
+      "correo": "Alberto.perez@openai.com"
+    },
+    {
+      "nombre": "Jose",
+      "apellido": "Marzoz",
+      "dni": "1882678",
+      "empresa": "Sony",
+      "correo": "Jose.perez@openai.com"
+    },
+    {
+      "nombre": "Maria",
+      "apellido": "Manez",
+      "dni": "12999787",
+      "empresa": "Philip",
+      "correo": "Maria.perez@openai.com"
+    },
+    {
+      "nombre": "Almudena",
+      "apellido": "Sevilla",
+      "dni": "1234334",
+      "empresa": "Way S.L",
+      "correo": "Almudena.perez@openai.com"
+    }
+  ]
+  
