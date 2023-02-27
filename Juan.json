@@ -1,9 +1,9 @@
 [
     {
-      "fecha": "Juan",
-      "tipo": "Perez",
-      "horas": "12345678",
-      "actividad": "OpenAI",
-      "observaciones": "juan.perez@openai.com"
+      "fecha": "27/02/2023",
+      "tipo": "Dual",
+      "horas": "6 horas",
+      "actividad": "Despliegue de aplicación en entorno de TEST",
+      "observaciones": "Ninguna novedad"
     }
   ]
