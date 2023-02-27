@@ -3,36 +3,36 @@
       "nombre": "Juan",
       "apellido": "Perez",
       "dni": "12345678",
-      "empresa": "OpenAI",
-      "correo": "juan.perez@openai.com"
+      "empresa": "Bankinter",
+      "correo": "juan.perez@bankinter.com"
     },
     {
       "nombre": "Alberto",
       "apellido": "Mendoza",
       "dni": "1235328",
       "empresa": "Santander",
-      "correo": "Alberto.perez@openai.com"
+      "correo": "Alberto.mendoza@santander.com"
     },
     {
       "nombre": "Jose",
       "apellido": "Marzoz",
       "dni": "1882678",
       "empresa": "Sony",
-      "correo": "Jose.perez@openai.com"
+      "correo": "Jose.marzoz@sony.com"
     },
     {
       "nombre": "Maria",
       "apellido": "Manez",
       "dni": "12999787",
-      "empresa": "Philip",
-      "correo": "Maria.perez@openai.com"
+      "empresa": "Philips",
+      "correo": "Maria.manez@philips.com"
     },
     {
       "nombre": "Almudena",
       "apellido": "Sevilla",
       "dni": "1234334",
       "empresa": "Way S.L",
-      "correo": "Almudena.perez@openai.com"
+      "correo": "Almudena.sevilla@way.com"
     }
   ]
   
