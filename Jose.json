@@ -1,9 +1,10 @@
 [
   {
+    "nombre": "Jose Marzoz",
     "fecha": "22/02/2022",
     "tipo": "FCT",
     "horas": "6 horas",
-    "actividad": "Masturbación en clase",
-    "observaciones": "El flequillo de Francisco me ha mirado raro"
+    "actividad": "Desarrollo de nueva interfaz web",
+    "observaciones": "Se implementan los cambios estimados en la daily anterior"
   }
 ]
