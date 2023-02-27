@@ -1,6 +1,8 @@
 [
     {
-      "nombre": "Juan Pérez",
+        "nombre": "Juan Pérez"
+    },
+    {
       "fecha": "27/02/2023",
       "tipo": "Dual",
       "horas": "6 horas",
