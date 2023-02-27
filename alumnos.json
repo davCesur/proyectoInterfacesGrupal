@@ -1,38 +1,24 @@
 [
     {
-      "nombre": "Juan",
-      "apellido": "Perez",
+      "nombre": "Lucía",
+      "apellido": "Barbilla",
       "dni": "12345678",
       "empresa": "Bankinter",
-      "correo": "juan.perez@bankinter.com"
+      "correo": "lucia.barbilla@bankinter.com"
     },
     {
-      "nombre": "Alberto",
-      "apellido": "Mendoza",
+      "nombre": "Amancio",
+      "apellido": "Ortega",
       "dni": "1235328",
-      "empresa": "Santander",
-      "correo": "Alberto.mendoza@santander.com"
+      "empresa": "Inditex",
+      "correo": "amancio.ortega@inditex.com"
     },
     {
-      "nombre": "Jose",
-      "apellido": "Marzoz",
+      "nombre": "Pepe",
+      "apellido": "Viyuela",
       "dni": "1882678",
       "empresa": "Sony",
-      "correo": "Jose.marzoz@sony.com"
-    },
-    {
-      "nombre": "Maria",
-      "apellido": "Manez",
-      "dni": "12999787",
-      "empresa": "Philips",
-      "correo": "Maria.manez@philips.com"
-    },
-    {
-      "nombre": "Almudena",
-      "apellido": "Sevilla",
-      "dni": "1234334",
-      "empresa": "Way S.L",
-      "correo": "Almudena.sevilla@way.com"
+      "correo": "pepe.viyuela@sony.com"
     }
   ]
   
