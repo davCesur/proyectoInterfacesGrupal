@@ -1,13 +1,5 @@
 [
     {
-        "profesor": "Victor Manuel Navarro",
-        "empresa": "Bankinter",
-        "realizadasDual": "500 horas",
-        "pendientesDual": "0 horas",
-        "realizadasFCT": "100 horas",
-        "pendientesFCT": "280 horas"
-    },
-    {
       "fecha": "27/02/2023",
       "tipo": "FCT",
       "horas": "6 horas",
