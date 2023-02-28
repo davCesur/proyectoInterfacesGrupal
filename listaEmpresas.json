@@ -1,0 +1,27 @@
+[
+  {
+    "nombreEmpresa": "Machine Gun SL",
+    "telefonoEmpresa": "+34 776445547",
+    "mailEmpresa": "MachineLon@machine.es",
+    "responsableEmpresa": "Arturito Vacaciones"
+  },
+
+  {
+    "nombreEmpresa": "Bankinter",
+    "telefonoEmpresa": "+34 665334436",
+    "mailEmpresa": "mddan@bankinter.es",
+    "responsableEmpresa": "María Dolores Dancausa"
+  },
+  {
+    "nombreEmpresa": "Inditex",
+    "telefonoEmpresa": "+34 887556658",
+    "mailEmpresa": "moper@inditex.es",
+    "responsableEmpresa": "Marta Ortega Pérez"
+  },
+  {
+    "nombreEmpresa": "Sony",
+    "telefonoEmpresa": "+34 666534327",
+    "mailEmpresa": "kenyo@inditex.es",
+    "responsableEmpresa": "Kenichiro Yoshida"
+  }
+]
