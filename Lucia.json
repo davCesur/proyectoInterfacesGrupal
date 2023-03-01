@@ -10,7 +10,7 @@
       "fecha": "28/02/2023",
       "tipo": "FCT",
       "horas": "6 horas",
-      "actividad": "Despliegue de aplicación en entorno de TEST",
+      "actividad": "Realización de tests unitarios para el despliegue del día anterior",
       "observaciones": "Ninguna novedad"
     }
   ]
