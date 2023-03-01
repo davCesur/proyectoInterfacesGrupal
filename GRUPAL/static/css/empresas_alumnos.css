@@ -1,0 +1,97 @@
+
+
+/* Cuerpo */
+body {
+  display: grid;
+  grid-template-columns: 5% 95% !important;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  width: 99vw;
+}
+
+/* Tabla */
+
+.añadir {
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #ffffff;
+  background-color: #1883ba;
+  border-radius: 6px;
+  border: 2px solid #0016b0;
+}
+
+.correo {
+  width: 80%;
+}
+
+
+/* Imagen Teams */
+
+.teams {
+  width: 100%;
+  border-bottom-left-radius: 5%;
+  border-bottom-right-radius: 5%;
+  border-bottom: 3px solid;
+  border-color: white;
+}
+
+/* Parte footer */
+
+i {
+  margin-top: 30%;
+}
+footer {
+  display: flex;
+  background-color: black;
+}
+footer .linea1,
+.linea2,
+.linea3 {
+  color: white;
+  margin-left: 10%;
+}
+
+td button a {
+  color: white;
+  text-decoration: none;
+}
+
+
+#table-users {
+  width: 70vw;
+}
+
+button {
+  padding: 10px 25px;
+  border: 1px solid #3a3a3a;
+  border-radius: 10px;
+  background: blue;
+  color: white !important;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+button a:visited {
+  color: white;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.areas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+i.fa-solid.fa-paperclip-vertical {
+  margin-top: 0px;
+}
+
+i.fa-solid.fa-trash {
+  margin-top: 0px;
+}
